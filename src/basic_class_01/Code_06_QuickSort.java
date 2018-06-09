@@ -3,6 +3,7 @@ package basic_class_01;
 
 //快速排序
 //该过程无法使用异或交换
+//快速排序的空间复杂度为O（logN）
 public class Code_06_QuickSort {
 	public static void quickSort(int[] arr, int l, int r) {
 		if (l < r) {
@@ -46,6 +47,7 @@ public class Code_06_QuickSort {
 	public static void main(String[] args) {
 		int[] arr = { 1, 4545, 3432, 667, 231, 4543, 21321, 76, 23 };
 		quickSort(arr , 0 , arr.length - 1);
+		
 		for (int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i] + ",");
 		}
