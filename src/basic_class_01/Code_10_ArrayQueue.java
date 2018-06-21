@@ -1,6 +1,6 @@
 package basic_class_01;
 
-//使用数组模拟栈
+//使用数组模拟队列
 public class Code_10_ArrayQueue {
 	private int[] data;
 	private int size;

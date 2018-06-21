@@ -1,7 +1,7 @@
 package basic_class_01;
 //小和问题
 //和归并排序相同的操作流程，在merger过程中左指针小于右指针责认为左边的数是右边所有数的小和
-public class Code_04_smileSum {
+public class Code_04_SmileSum {
 
 	public static void smileSum(int[] arr) {
 		if(arr == null || arr.length < 2) {
