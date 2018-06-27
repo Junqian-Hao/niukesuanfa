@@ -22,3 +22,4 @@
 * Code_19_FindNumInSortedMatrix 在行列排好序的矩阵中找数
 * Code_20_PrintCommonPart 打印俩个排好序的链表相同的部分
 * Code_21_IsPalindromeList 判断一个链表是否是回文链表
+# Code_23_FindFirstIntersectNode 查找俩个单链表的第一个相交点
