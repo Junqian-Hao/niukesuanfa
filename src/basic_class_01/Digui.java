@@ -4,10 +4,13 @@ package basic_class_01;
 public class Digui {
 
 	public static void main(String[] args) {
-		int[] arr = {123,21321,5324,321,534};
+//		int[] arr = {123,21321,5324,321,534};
+//		
+//		int max = getMax(arr,0 , arr.length-1);
+//		System.out.println(max);
 		
-		int max = getMax(arr,0 , arr.length-1);
-		System.out.println(max);
+		Byte a = 127;
+		System.out.println(++a);
 
 	}
 
