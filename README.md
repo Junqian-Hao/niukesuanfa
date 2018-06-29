@@ -24,3 +24,6 @@
 * Code_21_IsPalindromeList 判断一个链表是否是回文链表
 * Code_23_FindFirstIntersectNode 查找俩个单链表的第一个相交点
 * Code_24_PreInPosTraversal 二叉树的先中后序遍历（递归和非递归版本）
+* Code_25_SuccessorNode 在带有父指针的二叉树中查找后继节点
+* Code_26_IsBalancedTree 判断是否是平衡二叉树
+* Code_28_CompleteTreeNodeNumber 求完全二叉树的节点个数，时间复杂度低于O（N）
