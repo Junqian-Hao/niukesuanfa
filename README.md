@@ -27,3 +27,5 @@
 * Code_25_SuccessorNode 在带有父指针的二叉树中查找后继节点
 * Code_26_IsBalancedTree 判断是否是平衡二叉树
 * Code_28_CompleteTreeNodeNumber 求完全二叉树的节点个数，时间复杂度低于O（N）
+* Code_29_RandomPool 能够添加删除并等概率返回一个key（并查集）
+* Code_30_Hanoi 汉诺塔问题
