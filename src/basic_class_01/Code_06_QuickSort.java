@@ -1,5 +1,6 @@
 package basic_class_01;
 
+import java.util.Arrays;
 
 //快速排序
 //该过程无法使用异或交换
@@ -45,12 +46,14 @@ public class Code_06_QuickSort {
 //	}
 	
 	public static void main(String[] args) {
-		int[] arr = { 1, 4545, 3432, 667, 231, 4543, 21321, 76, 23 };
-		quickSort(arr , 0 , arr.length - 1);
-		
-		for (int i = 0; i < arr.length; i++) {
-			System.out.print(arr[i] + ",");
-		}
-		
+//		int[] arr = { 1, 4545, 3432, 667, 231, 4543, 21321, 76, 23 };
+//		quickSort(arr , 0 , arr.length - 1);
+//		
+//		for (int i = 0; i < arr.length; i++) {
+//			System.out.print(arr[i] + ",");
+//		}
+		int[] a = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
+        quickSort(a, 0, a.length - 1);
+        System.out.println(Arrays.toString(a));
 	}
 }

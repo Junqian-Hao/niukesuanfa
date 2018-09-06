@@ -29,3 +29,6 @@
 * Code_28_CompleteTreeNodeNumber 求完全二叉树的节点个数，时间复杂度低于O（N）
 * Code_29_RandomPool 能够添加删除并等概率返回一个key（并查集）
 * Code_30_Hanoi 汉诺塔问题
+* Code_31_BFS 图的宽度优先遍历
+* Code_32_PagerFolding 折纸问题
+* Code_33_DFS 图的深度优先遍历

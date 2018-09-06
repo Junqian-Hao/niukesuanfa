@@ -1,6 +1,6 @@
 package basic_class_01;
 //岛问题
-public class Class_30_Islands {
+public class Code_30_Islands {
 	//计算有几个岛
 	public static int countIslands(int[][] m) {
 		if(m == null || m[0] == null) {
